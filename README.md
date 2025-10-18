@@ -29,8 +29,7 @@ The game demonstrates basic Assembly programming concepts including function cal
 - Random number generation based on a user-provided seed.  
 - Up to 5 guesses per game.  
 - Feedback for correct and incorrect guesses.  
-- Simple, interactive terminal-based gameplay.  
-- Demonstrates basic x86-64 Assembly programming concepts.
+- Simple, interactive terminal-based gameplay.
 
 ---
 
