@@ -38,7 +38,8 @@ The game demonstrates basic Assembly programming concepts including function cal
 To run this project, you’ll need:
 
 - A Linux or Windows system with an x86-64 environment.  
-- GCC (GNU Compiler) to assemble and link the program.  
+- GCC (GNU Compiler) to assemble and link the program.
+- Git for version control and project management.
 
 ---
 
